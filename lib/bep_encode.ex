@@ -1,4 +1,4 @@
-defmodule TestElixir do
+defmodule BepEncode do
   @moduledoc """
   Documentation for `TestElixir`.
   """

@@ -1,9 +1,9 @@
-defmodule TestElixir.MixProject do
+defmodule BepEncode.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :test_elixir,
+      app: :bep_encode,
       version: "0.1.0",
       elixir: "~> 1.17",
       start_permanent: Mix.env() == :prod,
